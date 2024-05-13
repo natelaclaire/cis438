@@ -12,6 +12,7 @@ Numbered videos are based on lessons from a prior semester.
 
 * Videos:
   * Introduction / syllabus
+  * Semester-long final project
   * How to log into Shopify store
   * Introduction to Shopify 101 on Shopify Academy
 * Discussion:
@@ -45,7 +46,7 @@ Numbered videos are based on lessons from a prior semester.
   * Creating menus for site navigation
   * Creating pages
   * Creating blog posts
-  * [Introduction to Shopify Liquid](https://academy.shopify.com/path/liquid-storefronts-for-theme-developers/introduction-to-shopify-liquid)
+  * [Introduction to Shopify Liquid on Shopify Academy](https://academy.shopify.com/path/liquid-storefronts-for-theme-developers/introduction-to-shopify-liquid)
 * Discussion:
   * 
 * Assignment:
@@ -62,7 +63,7 @@ Numbered videos are based on lessons from a prior semester.
   * Theme performance
   * Theme accessibility
   * Shopify Apps
-  * [Liquid Optimization for Theme Development](https://academy.shopify.com/path/liquid-storefronts-for-theme-developers/liquid-optimization-for-theme-development)
+  * [Liquid Optimization for Theme Development on Shopify Academy](https://academy.shopify.com/path/liquid-storefronts-for-theme-developers/liquid-optimization-for-theme-development)
 * Discussion:
   * 
 * Assignment:
@@ -161,7 +162,7 @@ Numbered videos are based on lessons from a prior semester.
 ## Week 13
 
 * Videos:
-  * 
+  * [Foundations: Introduction to Shopify Plus on Shopify Academy](https://academy.shopify.com/path/foundations-certification/foundations-introduction-to-shopify-plus)
 * Discussion:
 * Assignment:
 
