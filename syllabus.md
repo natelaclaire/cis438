@@ -24,28 +24,37 @@ I do not have set weekly Office Hours, but am available by appointment. To sched
 
 ## Required Text and Materials
 
-None
+Step-by-step learning activities will be shared via Google Drive.
 
 ## Required Software
 
-Required
+Students will set up a free Shopify Partners account, which will be used to develop their E-Commerce sites. Students may need graphics and text editing software and free options will be presented in class.
 
 ## Course Objectives
 
-This course will:
+The main objectives of the course are:
 
-- 1
-- 2
-- 3
-- 4
+Individual Learning Activity:
+
+- complete hands-on learning activities to build a gateway site and shopping cart for a pseudo business (My Hobbies site)
+
+Individual Project:
+
+- To select a real or pseudo client with a product or service that lends itself well to marketing and distribution in an online shopping environment.
+- To parallel the content covered in the weekly hands-on individual activities using the My Hobbies demonstration site in the client prototype.
+- To conduct a usability study of the project prototype.
 
 Expect to work an average of six to nine hours a week on homework assignments, discussion assignments, and studying. This may vary on any particular week depending on class workload.
 
 ## Learning Outcomes
 
-Upon completion of this course, the student should be able to:
+Upon completion of this course, the student should be able to
 
-- 1
+- To select a real or pseudo client with a product or service that lends itself well to marketing and distribution in an online shopping environment.
+- To create a storyboard to define the relationship among individual pages in the gateway Web site.
+- To parallel the content covered in the weekly hands-on individual activities using the My Travels Site demonstration site in the client prototype
+- To conduct a usability study of the project prototype
+- To present a Project Documentation Report to highlight the weekly challenges and resolution process in the development of a client prototype
 
 ## Electronic Learning Tools
 
@@ -74,24 +83,24 @@ To maximize your learning experience, you should:
 - Complete discussion assignments on or before the due date.
 - Complete the homework assignment using the Portfolio Site and indicate that you have completed it through the Course Content tab in Brightspace on or before the due date.
 
-| Week        | Assignment Topic                                                       | Due Date (11:59pm) |
-| ----------- | ---------------------------------------------------------------------- | ------------------ |
-| 1           | Introductions, Survey of Content Management Systems, Set-Up            | January 20         |
-| 2           | WordPress Installation, Users and Roles, Back-ups                      | January 27         |
-| 3           | Storyboard                                                             | February 3         |
-| 4           | Themes, Plugins, Security, Updates                                     | February 10        |
-| 5           | Pages, Menus, Child Themes                                             | February 17        |
-| 6           | Image Sliders, Page Content                                            | February 24        |
-| 7           | Blog Posts, Tags and Categories                                        | March 2            |
-| 8           | Contact Forms                                                          | March 9            |
-|             | **Spring Break - March 10 - 16**                                       |                    |
-| 9           | Calendars, Maps                                                        | March 23           |
-| 10          | Forums, Social Sharing                                                 | March 30           |
-| 11          | Image Galleries, Web Stories                                           | April 6            |
-| 12          | Shops                                                                  | April 13           |
-| 13          | Finishing and Testing, Responsive Design                               | April 20           |
-| 14          | SEO, Optimization                                                      | April 27           |
-| 15          | Final Portfolio Site Submission                                        | May 4              |
+| Week        | Assignment Topic                                                       | Due Date (11:59pm)    |
+| ----------- | ---------------------------------------------------------------------- | --------------------- |
+| 1           | Log into Shopify development store provided by instructor, complete [Shopify 101](https://academy.shopify.com/path/foundations-certification/foundations-shopify-101)       | September 7           |
+| 2           | 03 WordPress Configuration, 04 WordPress Backing Up Your Site                      | September 14          |
+| 3           | 05 WordPress Installing Woo Commerce, 06 Woo Commerce Product Categories, 07 Wo Commerce Product Attributes                                                           | September 21          |
+| 4           | 08 Woo Commerce Taxes, 09 Woo Commerce Shipping                                     | September 28          |
+| 5           | 10 Woo Commerce Products                                             | October 5             |
+| 6           | 11 Woo Commerce Menus, REQUEST APPROVAL OF PARALLEL SITE – CONFIRM THAT PRODUCTS CAN BE CONFIGURED                                            | October 12            |
+| 7           | 12 Woo Commerce Themes, BEGIN APPROVED PARALLEL SITE                                        | October 19            |
+| 8           | 13 Woo Commerce Payments, 14 Woo Commerce Orders -Reports, WORK ON PARALLEL SITE                                                | October 26            |
+| 9           | 15 WordPress Adding Pages, WORK ON PARALLEL SITE                   | November 2            |
+| 10          | 16 WordPress Content & Blog Posts, WORK ON PARALLEL SITE                                            | November 9            |
+| 11          | 17 WordPress Contact Form, 18 WordPress Social Media, WORK ON PARALLEL SITE                                           | November 16           |
+| 12          | 19 WordPress SEO, WORK ON PARALLEL SITE                                     | November 23           |
+|             | **No Assignments Due November 30 – Thanksgiving Break**                |                       |
+| 13          |                             | December 7            |
+| 14          | Usability study on Demo and Parallel sites and make final updates                                           | December 14           |
+| 15          | Parallel Site Final Submission                                       | December 20           |
 
 ### Semester-long Project: Your Portfolio Site
 
@@ -105,8 +114,9 @@ Students who anticipate a conflict between their observance of a religious holid
 
 ## Grading Criteria
 
-- **80%** of your grade will be determined by Homework Assignments.
+- **40%** of your grade will be determined by My Hobbies Web Site.
 - **20%** of your grade will be determined by Discussion Assignments.
+- **40%** of your grade will be determined by Parallel Site.
 
 A 94-100%, A- 90-93%, B+ 87-89%, B 83-86%, B- 80-82%, C+ 77-79%, C 73-76%, C- 70-72%, D+ 67-69%, D 63-66%, D- 60-62%, F below 60%.
 
