@@ -6,8 +6,6 @@ nav_order: 3
 
 # Topic/Tutorial List
 
-Numbered videos are based on lessons from a prior semester.
-
 ## Week 1
 
 * Videos:
