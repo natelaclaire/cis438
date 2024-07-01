@@ -108,11 +108,9 @@ nav_order: 3
 ## Week 8
 
 * Videos:
-  * Coupons and discounts
-  * Gift cards
-  * Marketing campaigns
-  * Marketing automations
-  * [Foundations: Introduction to Marketing on Shopify Academy](https://academy.shopify.com/path/foundations-certification/foundations-introduction-to-marketing)
+  * Abandoned Cart Recovery <https://academy.shopify.com/onsite-cart-abandonment-strategies>
+  * Using 3D Models and Augmented Reality to Improve Conversions <https://academy.shopify.com/recreate-real-life-in-store-experiences-with-3d-models-and-augmented-reality>
+  * Site Audits for Conversion Optimization <https://academy.shopify.com/site-audit-walkthrough>
 * Discussion:
   * 
 * Assignment:
@@ -121,14 +119,37 @@ nav_order: 3
 ## Week 9
 
 * Videos:
+  
+* Discussion:
+  * Site Speed Optimization <https://academy.shopify.com/site-speed-optimization> <https://academy.shopify.com/optimizing-site-speed-for-wild-fork-foods-with-diff-agency>
+  * Search Engine Optimization <https://academy.shopify.com/search-engine-optimization>
+* Assignment:
+  * WORK ON PARALLEL SITE
+ 
+## Week 10
+
+* Videos:
+  * Coupons and discounts
+  * Gift cards
+  * Marketing campaigns
+  * Marketing automations
+  * [Foundations: Introduction to Marketing on Shopify Academy](https://academy.shopify.com/path/foundations-certification/foundations-introduction-to-marketing)
+* Discussion:
+  * 
+* Assignment:
+  * WORK ON PARALLEL SITE
+
+## Week 11
+
+* Videos:
   * Sales channels
   * [Foundations: Introduction to POS & Retail on Shopify Academy](https://academy.shopify.com/path/foundations-certification/foundations-introduction-pos-and-retail)
 * Discussion:
   * 
 * Assignment:
   * WORK ON PARALLEL SITE
- 
-## Week 10
+
+## Week 12
 
 * Videos:
   * Markets
@@ -139,27 +160,10 @@ nav_order: 3
 * Assignment:
   * WORK ON PARALLEL SITE
 
-## Week 11
-
-* Videos:
-  * Workflows
-* Discussion:
-  * 
-* Assignment:
-  * WORK ON PARALLEL SITE
-
-## Week 12
-
-* Videos:
-  * 
-* Discussion:
-  * 
-* Assignment:
-  * WORK ON PARALLEL SITE
-
 ## Week 13
 
 * Videos:
+  * Workflows
   * [Foundations: Introduction to Shopify Plus on Shopify Academy](https://academy.shopify.com/path/foundations-certification/foundations-introduction-to-shopify-plus)
 * Discussion:
 * Assignment:
