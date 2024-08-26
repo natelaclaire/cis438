@@ -57,8 +57,6 @@ Individual Project:
 - To parallel the content covered in the weekly hands-on individual activities using the My Hobbies demonstration site in the client prototype.
 - To conduct a usability study of the project prototype.
 
-Expect to work an average of six to nine hours a week on homework assignments, discussion assignments, and studying. This may vary on any particular week depending on class workload.
-
 ## Learning Outcomes
 
 Upon completion of this course, the student should be able to
@@ -83,7 +81,7 @@ Expect to work an average of two to three hours per credit hour each week on cla
 
 It is the students' responsibility to submit Homework Assignments on or before the due date and complete the Final Project by the last day of the course.
 
-Students may upload late homework assignments for two weeks with a ten–point deduction for each week. After two weeks, the homework assignment will no longer be accepted and a grade of “0” will be posted to the gradebook.
+Students may upload late homework assignments with a ten–point deduction for each week.
 
 If you miss the final project, you will have an opportunity to make it up only if you have a documented, legitimate excuse and will almost certainly need to request an Incomplete grade.  Otherwise, you will not receive credit for the final project.
 
