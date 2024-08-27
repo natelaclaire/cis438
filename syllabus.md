@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Syllabus (Fall 2024 Online)
+title: Syllabus (Fall 2024 Directed Study)
 nav_order: 2
 ---
 
-# CIS 438: Electronic Commerce: Fall 2024 (Online)
+# CIS 438: Electronic Commerce: Fall 2024 (Directed Study)
 
 ## Class Meetings
 
