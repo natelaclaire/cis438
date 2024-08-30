@@ -12,12 +12,10 @@ nav_order: 3
   * Introduction / syllabus
   * Semester-long final project
   * How to log into Shopify store
-  * Introduction to Shopify 101 on Shopify Academy
 * Discussion:
   * Introduce yourself
 * Assignment:
   * Log into Shopify development store provided by instructor
-  * Complete [Shopify 101](https://academy.shopify.com/path/foundations-certification/foundations-shopify-101)
 
 ## Week 2
 
