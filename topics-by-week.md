@@ -24,7 +24,8 @@ nav_order: 3
   * Product Variants
   * Product Meta Data
   * Product Collections
-  * Product Organization
+  * Product Organization: Product Type, Vendor, and Tags
+  * Bulk Editing Products
 * Discussion:
   * 
 * Assignment:
