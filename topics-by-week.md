@@ -21,11 +21,10 @@ nav_order: 3
 
 * Videos:
   * Adding Products
-  * Product Options
   * Product Variants
-  * Product Categories
   * Product Meta Data
   * Product Collections
+  * Product Organization
 * Discussion:
   * 
 * Assignment:
@@ -72,6 +71,7 @@ nav_order: 3
   * Specifying logos, colors, and other brand assets
   * Sales tax settings
   * Shipping and delivery settings
+  * Managing inventory
 * Discussion:
   * 
 * Assignment:
