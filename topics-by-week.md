@@ -23,8 +23,8 @@ nav_order: 3
   * Adding Products
   * Product Variants
   * Product Meta Data
-  * Product Collections
   * Product Organization: Product Type, Vendor, and Tags
+  * Product Collections
   * Bulk Editing Products
 * Discussion:
   * 
