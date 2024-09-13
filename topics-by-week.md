@@ -34,7 +34,7 @@ nav_order: 3
 ## Week 3
 
 * Videos:
-  * Selecting a theme
+  * Themes
   * Intro to theme customizations
   * Customizing the site header
   * Customizing site colors
