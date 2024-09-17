@@ -38,10 +38,7 @@ nav_order: 3
   * Intro to theme customizations
   * Customizing the site header
   * Customizing site colors
-  * Adding images and content to your site
-  * Creating menus for site navigation
-  * Creating pages
-  * Creating blog posts
+  * Site content
   * [Introduction to Shopify Liquid on Shopify Academy](https://academy.shopify.com/path/liquid-storefronts-for-theme-developers/introduction-to-shopify-liquid)
 * Discussion:
   * 
