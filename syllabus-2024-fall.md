@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Syllabus (Fall 2025 Directed Study)
+title: Syllabus (Fall 2024 Directed Study)
 nav_order: 2
 ---
 
-# CIS 438: Electronic Commerce: Fall 2025 (Directed Study)
+# CIS 438: Electronic Commerce: Fall 2024 (Directed Study)
 
 ## Class Meetings
 
@@ -96,28 +96,28 @@ To maximize your learning experience, you should:
 
 | Week        | Assignment Topic                                                       | Due Date (11:59pm)    |
 | ----------- | ---------------------------------------------------------------------- | --------------------- |
-| 1           | Log into Shopify development stores provided by instructor             | September 6           |
-| 2           | Products, Categories, and Related Options                              | September 13          |
-| 3           | Themes, Site Customizations, Navigation, and Content                   | September 20          |
-| 4           | Creating and modifying themes, Final Project Topic Due                 | September 27          |
-| 5           | Configuring Sales Tax and Shipping, Brand Assets, and Store Details    | October 4             |
-| 6           | Checkout, Payments, Policies, and Regulations                          | October 11            |
-| 7           | Orders, Analytics, and Reporting, Final Project Progress Report #1     | October 18            |
-| 8           | Conversion Optimization                                                | October 25            |
-| 9           | Search Engine and Site Speed Optimization                              | November 1            |
-| 10          | Marketing, Coupons, and Gift Cards                                     | November 8            |
-| 11          | Sales Channels, Final Project Progress Report #2                       | November 15           |
-| 12          | Markets and Languages                                                  | November 22           |
-|             | **No Assignments Due November 29 – Thanksgiving Break**                |                       |
-| 13          | Automate Processes Using Workflows                                     | December 6            |
-| 14          | Usability Studies                                                      | December 13           |
-| 15          | Final Project Due                                                      | December 19           |
+| 1           | Log into Shopify development stores provided by instructor             | September 7           |
+| 2           | Products, Categories, and Related Options                              | September 14          |
+| 3           | Themes, Site Customizations, Navigation, and Content                   | September 21          |
+| 4           | Creating and modifying themes, Final Project Topic Due                 | September 28          |
+| 5           | Configuring Sales Tax and Shipping, Brand Assets, and Store Details    | October 5             |
+| 6           | Checkout, Payments, Policies, and Regulations                          | October 12            |
+| 7           | Orders, Analytics, and Reporting, Final Project Progress Report #1     | October 19            |
+| 8           | Conversion Optimization                                                | October 26            |
+| 9           | Search Engine and Site Speed Optimization                              | November 2            |
+| 10          | Marketing, Coupons, and Gift Cards                                     | November 9            |
+| 11          | Sales Channels, Final Project Progress Report #2                       | November 16           |
+| 12          | Markets and Languages                                                  | November 23           |
+|             | **No Assignments Due November 30 – Thanksgiving Break**                |                       |
+| 13          | Automate Processes Using Workflows                                     | December 7            |
+| 14          | Usability Studies                                                      | December 14           |
+| 15          | Final Project Due                                                      | December 20           |
 
 ### Final Project
 
 As a core part of this course, each student will create a Shopify store of their own choosing, applying the concepts learned in the tutorials. This could be a shop for a real or fictitious business.
 
-The topic for your Final Project shop will be due on September 27. The instructor will respond with approval, suggestions, and/or questions before you should begin building the shop. Each student will report on the progress of their Final Project shop twice during the semester and the finalized shop will be due on December 19.
+The topic for your Final Project shop will be due on September 28. The instructor will respond with approval, suggestions, and/or questions before you should begin building the shop. Each student will report on the progress of their Final Project shop twice during the semester and the finalized shop will be due on December 20.
 
 ### Religious Holidays
 
